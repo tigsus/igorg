@@ -32,3 +32,5 @@ Use the `Issues` tab to view all support or feature requests. You may submit a n
 Project maintainers should reference style guides, `.gitignore` rules and templates in this this project's [style-guides](https://github.com/tigsus/igorg/tree/master/style-guides) directory.
 
 ## [LICENSE](LICENSE)
+
+IGORG is short for `Information Governance Organization`.
