@@ -15,7 +15,7 @@ If you are an electric cooperative, contact `join@igorg.org` and specify which p
 
 Projects fall under a few licensing types. Public projects typically have an MIT or Apache2 license attributed to them. Private projects are Co-op centric with licensing ranging from `MIT for Cooperatives` to `proprietary`. A project may be categorized as proprietary if it contains commercial software or trade-secrets.
 
-### Private Projects
+##### Private Projects
 
 | Project       | License       | Description   |
 | ------------- | ------------- | ------------- |
