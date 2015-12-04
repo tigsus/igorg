@@ -17,15 +17,15 @@ Projects fall under a few licensing types. Public projects typically have an MIT
 
 ### Private Projects
 
-| Project       | License       | Description |
-| ------------- | ------------- |
+| Project       | License       | Description   |
+| ------------- | ------------- | ------------- |
 | [igorg-state-outages-report](https://github.com/tigsus/igorg-state-outages-report)  | [MIT for Co-ops](https://github.com/tigsus/licenses/blob/master/MIT-for-Cooperatives-Tigsus-LCREC.md) | Windows service to send outage updates to statewide organization |
 
 ## Support
 
 Use the `Issues` tab to view all support or feature requests. You may submit a new issue from there.  New submissions should be relevant to the project.  For unrelated projects or to speak to someone about a new project, confidentially email `support@igorg.org` or post an issue for public viewing on [igorg](https://github.com/tigsus/igorg/issues).
 
-![Issues](https://github.com/tigsus/igorg/master/blob/issues.png)
+![Issues](https://github.com/tigsus/igorg/blob/master/images/issues.png)
 
 ## Maintainers
 
