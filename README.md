@@ -13,13 +13,13 @@ If you are an electric cooperative, contact `join@igorg.org` and specify which p
 
 ## Projects and Licensing
 
-Projects fall under a few licensing types. Public projects typically have an MIT or Apache2 license attributed to them. Private projects are co-op centric with licensing ranging from MIT for Cooperatives to proprietary. A project may be categorized as proprietary if it contains commercial software or trade-secrets.
+Projects fall under a few licensing types. Public projects typically have an MIT or Apache2 license attributed to them. Private projects are Co-op centric with licensing ranging from `MIT for Cooperatives` to `proprietary`. A project may be categorized as proprietary if it contains commercial software or trade-secrets.
 
 ### Private Projects
 
 | Project       | License       | Description   |
 | ------------- | ------------- | ------------- |
-| [igorg-state-outages-report](https://github.com/tigsus/igorg-state-outages-report)  | [MIT for Co-ops](https://github.com/tigsus/licenses/blob/master/MIT-for-Cooperatives-Tigsus-LCREC.md) | Windows service to send outage updates to statewide organization |
+| [igorg-state-outages-report](https://github.com/tigsus/igorg-state-outages-report)  | [MIT for Co-ops](https://github.com/tigsus/igorg/blob/master/licenses/MIT-for-Cooperatives-Tigsus-LCREC.md) | Windows service to send outage updates to statewide organization |
 
 ## Support
 
