@@ -4,7 +4,7 @@ This is the GitHub home page for IGORG-related public-private source code collab
 
 ## Joining
 
-If you are an electric cooperative, contact `join@igorg.org` and specify which project you would like to join. A list of projects can be found below. Please provide the following:
+If you are an electric cooperative, email `join@igorg.org` and specify which project you would like to join. A list of projects can be found below. Please provide the following:
 
 * Project to join
 * GitHub usernames so we can link them to the project
