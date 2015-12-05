@@ -23,7 +23,7 @@ Projects fall under a few licensing types. Public projects typically have an MIT
 
 ## Support
 
-Use the `Issues` tab to view all support or feature requests. You may submit a new issue from there.  New submissions should be relevant to the project.  For unrelated projects or to speak to someone about a new project, confidentially email `support@igorg.org` or post an issue for public viewing on [igorg](https://github.com/tigsus/igorg/issues).
+Use the `Issues` tab to view all support or feature requests. You may submit a new issue from there.  New submissions should be relevant to the project.  For unrelated projects or to speak to someone about a new project, email `support@igorg.org` or post an issue for public viewing on [igorg](https://github.com/tigsus/igorg/issues).
 
 ![Issues](https://github.com/tigsus/igorg/blob/master/images/issues.png)
 
