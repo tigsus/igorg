@@ -17,9 +17,11 @@ Projects fall under a few licensing types. Public projects typically have an MIT
 
 ##### Private Projects
 
+In order to access a private project, follow the instructions under "Joining".
+
 | Project       | License       | Description   |
 | ------------- | ------------- | ------------- |
-| [igorg-state-outages-report](https://github.com/tigsus/igorg-state-outages-report)  | [MIT for NRECA Members](https://github.com/tigsus/igorg/blob/master/licenses/MIT-for-NRECA-Members-Tigsus-LCREC.md) | Windows service to send outage updates to statewide organization |
+| [igorg-state-outages-report](https://github.com/tigsus/igorg-state-outages-report)*  | [MIT for NRECA Members](https://github.com/tigsus/igorg/blob/master/licenses/MIT-for-NRECA-Members-Tigsus-LCREC.md) | Windows service to send outage updates to statewide organization |
 
 ## Support
 
