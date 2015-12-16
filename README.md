@@ -1,10 +1,10 @@
 # IGORG
 
-This is the GitHub home page for IGORG-related public-private source code collaboration efforts. IGORG-based projects have a mission to benefit electric cooperatives by promoting and coordinating programming resources that facilitate IT Governance, Security and Compliance.  
+This is the GitHub home page for IGORG-related public-private source code collaboration efforts. IGORG-based projects have a mission to benefit NRECA-member electric cooperatives by promoting and coordinating programming resources that facilitate IT Governance, Security and Compliance.  
 
 ## Joining
 
-If you are an electric cooperative, email `join@igorg.org` and specify which project you would like to join. A list of projects can be found below. Please provide the following:
+If you are a NRECA-member electric cooperative, email `join@igorg.org` and specify which project you would like to join. A list of projects can be found below. Please provide the following:
 
 * Project to join
 * GitHub usernames so we can link them to the project
@@ -13,13 +13,13 @@ If you are an electric cooperative, email `join@igorg.org` and specify which pro
 
 ## Projects and Licensing
 
-Projects fall under a few licensing types. Public projects typically have an MIT or Apache2 license attributed to them. Private projects are Co-op centric with licensing ranging from `MIT for Cooperatives` to `proprietary`. A project may be categorized as proprietary if it contains commercial software or trade-secrets.
+Projects fall under a few licensing types. Public projects typically have an MIT or Apache2 license attributed to them. Private projects are Co-op centric with licensing ranging from `MIT for NRECA Members` to `proprietary`. A project may be categorized as proprietary if it contains commercial software or trade-secrets.
 
 ##### Private Projects
 
 | Project       | License       | Description   |
 | ------------- | ------------- | ------------- |
-| [igorg-state-outages-report](https://github.com/tigsus/igorg-state-outages-report)  | [MIT for Co-ops](https://github.com/tigsus/igorg/blob/master/licenses/MIT-for-Cooperatives-Tigsus-LCREC.md) | Windows service to send outage updates to statewide organization |
+| [igorg-state-outages-report](https://github.com/tigsus/igorg-state-outages-report)  | [MIT for NRECA Members](https://github.com/tigsus/igorg/blob/master/licenses/MIT-for-NRECA-Members-Tigsus-LCREC.md) | Windows service to send outage updates to statewide organization |
 
 ## Support
 
